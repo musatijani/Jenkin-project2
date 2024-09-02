@@ -19,4 +19,7 @@ deploy adapters: [tomcat9(credentialsId: 'tompass', path: '', url: 'http://3.89.
             
             }
 
+    }
+        
 }
+    
